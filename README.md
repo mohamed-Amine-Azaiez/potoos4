@@ -8,7 +8,7 @@ Pourrésumer voir le graphe ci-dessous :
 
 
 
-![image](im.png)
+![image](im.PNG)
 
 
 
